@@ -1,0 +1,422 @@
+{
+  "sheetsById": {
+    "Scene": {
+      "staticOverrides": {
+        "byObject": {
+          "Light 1": {
+            "rotation": {
+              "x": 0.54,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "position": {
+              "x": -10.653253093970037,
+              "y": 48.658610386613006,
+              "z": -18.831285125730346
+            }
+          },
+          "Debris 2": {
+            "scale": {
+              "x": 1,
+              "y": 0.8806267807453713,
+              "z": 1
+            },
+            "position": {
+              "x": 0,
+              "y": 0.092538198630884,
+              "z": 0.1408722758857881
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          "Debris 1": {
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          },
+          "Camera": {
+            "position": {
+              "x": 0,
+              "y": 11.200000000000001,
+              "z": 14.599373939796282
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "near": 1
+          },
+          "Light 2": {
+            "position": {
+              "x": -36.15731177498364,
+              "y": 39.465180167108834,
+              "z": 8.661741185662734
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.3528666260561812,
+              "y": 1,
+              "z": 1
+            }
+          },
+          "Camera / Camera": {
+            "position": {
+              "x": -13.551582040073168,
+              "y": 1.0752518784334653,
+              "z": -2.977699507175757
+            },
+            "far": 2009.4999999999989
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 4.79,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Light 1": {
+            "trackData": {
+              "fkWh6huS49": {
+                "type": "BasicKeyframedTrack",
+                "keyframes": [
+                  {
+                    "id": "pYDoRNEWxC",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -16.65080101988762
+                  },
+                  {
+                    "id": "YKm2-seDyt",
+                    "position": 0.867,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.45438204772739943,
+                      -1.9183569979716022
+                    ],
+                    "value": -6.737931034482759
+                  },
+                  {
+                    "id": "Me_bS33ArH",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      1,
+                      -1.3098114989158565,
+                      0.5,
+                      0
+                    ],
+                    "value": -1.0966070769609253
+                  },
+                  {
+                    "id": "jtKRNgvaJy",
+                    "position": 2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10.014098386473147
+                  },
+                  {
+                    "id": "yHtT8sAZfl",
+                    "position": 2.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10.014098386473147
+                  },
+                  {
+                    "id": "gktPHqJj12",
+                    "position": 4.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 10.014098386473147
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"x\"]": "fkWh6huS49"
+            }
+          },
+          "Debris 1": {
+            "trackData": {},
+            "trackIdByPropPath": {}
+          },
+          "Debris 2": {
+            "trackData": {},
+            "trackIdByPropPath": {}
+          },
+          "Light 2": {
+            "trackData": {},
+            "trackIdByPropPath": {}
+          },
+          "Camera": {
+            "trackData": {
+              "jLQrZxhyiO": {
+                "type": "BasicKeyframedTrack",
+                "keyframes": [
+                  {
+                    "id": "xKE_MPcR0C",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 11.096278657477308
+                  },
+                  {
+                    "id": "n_Js43Du9s",
+                    "position": 0.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.33617555033367486,
+                      -0.3103448275862069
+                    ],
+                    "value": -2.5
+                  },
+                  {
+                    "id": "G7n83v0V9o",
+                    "position": 1.367,
+                    "connectedRight": true,
+                    "handles": [
+                      0.7555661414794672,
+                      -0.2639714625445898,
+                      0.5,
+                      0
+                    ],
+                    "value": -7.300000000000001
+                  },
+                  {
+                    "id": "bgcMTE-Dgx",
+                    "position": 2.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -7.300000000000001
+                  },
+                  {
+                    "id": "cjNPDxZDhs",
+                    "position": 4.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -7.300000000000001
+                  }
+                ]
+              },
+              "H2I042dsb1": {
+                "type": "BasicKeyframedTrack",
+                "keyframes": [
+                  {
+                    "id": "7MiZPT273K",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 3.358376956367028
+                  },
+                  {
+                    "id": "i60D6UTnV9",
+                    "position": 0.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  },
+                  {
+                    "id": "OgxV2J2HiZ",
+                    "position": 1.367,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -29.900000000000002
+                  },
+                  {
+                    "id": "jm7mRSxgbL",
+                    "position": 2.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -29.900000000000002
+                  },
+                  {
+                    "id": "lahFc_adE5",
+                    "position": 4.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -29.900000000000002
+                  }
+                ]
+              },
+              "g-2PM14IpO": {
+                "type": "BasicKeyframedTrack",
+                "keyframes": [
+                  {
+                    "id": "cJ0IDwTQtQ",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": -23.421317940631887
+                  },
+                  {
+                    "id": "C2ihVC1lei",
+                    "position": 0.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  },
+                  {
+                    "id": "J95MIJFvxf",
+                    "position": 1.367,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  },
+                  {
+                    "id": "_BCOZn2JpA",
+                    "position": 2.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  },
+                  {
+                    "id": "hXraLPnR-b",
+                    "position": 4.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"x\"]": "jLQrZxhyiO",
+              "[\"position\",\"y\"]": "H2I042dsb1",
+              "[\"position\",\"z\"]": "g-2PM14IpO"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "Wsz9lMDIzbUzV5i-",
+    "d4abW-sSbl2MTZRp",
+    "IXN1eYXqg6oP1xns",
+    "BMkRMzP2hwxyLrZr",
+    "l02zYr57FFzebsnP",
+    "AemJmhJ442k13q-Y",
+    "6eM-ncL2aTt6Th8k",
+    "0xeRr-38NTIDgkr6",
+    "wj8p8BZX8wxDQphD",
+    "gyT2GyAiIGhUSSey",
+    "XG90PomO07IaqqGW",
+    "8hZr_ExiNxQbWD7z",
+    "Wk5xZO97OnZIj8fx",
+    "z06jwLLjTOiagq-D",
+    "tasSiVYXnzKst53f",
+    "J0mJVRBGsN2Udseu",
+    "0ETlangOL7CbZlu-",
+    "wx4xmN3Q60UsS0qQ"
+  ]
+}
